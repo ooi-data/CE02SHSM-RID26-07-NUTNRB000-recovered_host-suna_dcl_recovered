@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE02SHSM-RID26-07-NUTNRB000-recovered_host-suna_dcl_recovered
 data_stream: CE02SHSM-RID26-07-NUTNRB000-recovered_host-suna_dcl_recovered
 end_date: '2021-04-03T22:47:57.943Z'
-last_updated: '2021-09-30T16:03:47.351042'
+last_updated: '2021-10-06T02:10:05.666242Z'
 start_date: '2018-04-03T01:17:18.413Z'
-status: success
+status: pending
